@@ -2,8 +2,8 @@ package test1;
 
 import java.util.Random;
 
-/**
- * 数组实现冒泡排序
+/**asdasd
+ * 脢媒脳茅脢碌脧脰脙掳脜脻脜脜脨貌
  * @author Administrator
  *
  */
